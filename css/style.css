@@ -110,6 +110,7 @@ iframe {
   margin: 0 auto;
 }
 
+
 .shadow {
   box-shadow: 0 3px 10px #333;
 }
@@ -119,6 +120,7 @@ iframe {
   color: white;
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
+  padding-top: 15px;
 }
 
 .border_right {
@@ -268,6 +270,7 @@ section a {
 
 #details {
   clear:both;
+  text-align: left;
   padding: 20px 10px;
   /* gradient */
   background: rgb(229,229,229); /* Old browsers */

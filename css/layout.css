@@ -23,5 +23,18 @@
 }
 
 /* Positioning Classes */
+.flex{
+  display: flex;
+  justify-content: space-evenly;
+}
 
-
+.sml{
+  margin-top: 10px;
+  width: 32.3%;
+}
+.med{
+  width: 76.8%;
+}
+.border_right{
+  width: 33%;
+}
