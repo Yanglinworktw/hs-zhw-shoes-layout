@@ -25,15 +25,16 @@
 /* Positioning Classes */
 .flex{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .sml{
-  margin-top: 10px;
-  width: 32.3%;
+  width: 32%;
+  margin-bottom: 10px;
 }
 .med{
-  width: 76.8%;
+  width: 66%;
+  margin-bottom: 10px;
 }
 .border_right{
   width: 33%;
